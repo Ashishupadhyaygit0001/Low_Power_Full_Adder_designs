@@ -58,7 +58,7 @@ The layout of the adder is given below :
 # 12-T Full Adder 
 As the name suggests it was introduced to reduce the area, however it resulted in increased delay pin-to-pin delays. The full adder design consists of three modules: Module I employs a 6-transistor (6T) XOR/XNOR circuit based on cross-coupled pMOS and nMOS structures, offering threshold voltage loss reduction through feedback loops. Module II uses pass-transistor logic (PTL) with two transistors to generate the Sum output efficiently with low static power dissipation. Module III utilizes transmission gate logic, combining complementary pMOS and nMOS pairs to produce the Carry output while overcoming voltage degradation issues.
 
-The schematic of the adder is given below :
+The schematic of the adder is given below:
 
 ![Screenshot 2025-04-13 100124](https://github.com/user-attachments/assets/e060fc09-301d-47d8-a1be-30cc824e212e)
 
