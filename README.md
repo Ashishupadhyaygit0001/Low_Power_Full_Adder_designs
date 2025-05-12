@@ -7,7 +7,8 @@ Power dissipation of VLSI chips is traditionally a neglected subject. As the sca
 # **Power Dissipation in CMOS circuits**
 
 There are two types of power dissipation in CMOS circuits: **dynamic** and **static**.
-*Dynamic power dissipation* is caused by switching activities of the circuits. A higher operating frequency leads to more frequent switching activities in the circuits and results in increased power dissipation.
+
+*Dynamic power dissipation* is caused by switching activities of the circuits. A higher operating frequency leads to more frequent switching activities in the circuits and results in increased power dissipation.<br>
 *Static power dissipation* is related to the logical states of the circuits rather than switching activities. In CMOS logic, leakage current is the only source of static power dissipation. The various types of leakage currents in CMOS circuits can be gate leakage, subthreshold leakage and drain leakage. The capacitance forms due to parasitic effects of interconnection wires and transistors. Such parasitic capacitance cannot be avoided and it has a significant impact on the power dissipation of the circuits.
 
 # **Designing Full Adders in Cadence Virtuoso**
